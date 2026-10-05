@@ -1,3 +1,9 @@
+# Final Project
+
+## Emotion Detector
+
+This project is an AI-powered Emotion Detector that analyzes text and identifies the emotions expressed in the input.
+
 <h1 align="center"> IBM Full Stack Software Developer Certificate <br> Developing AI Applications with Python and Flask </h1>
 
 ## Emotion Detector
